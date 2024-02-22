@@ -7,3 +7,7 @@ fn main() {
         }
     }
 }
+
+fn evaluate(tokens: &Vec<lexer::Token>) -> f64 {
+
+}
